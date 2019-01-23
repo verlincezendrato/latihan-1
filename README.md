@@ -10,5 +10,6 @@
 ![hasilnya](https://github.com/verlincezendrato/latihan-1/blob/master/3.JPG)
 4
 ![hasilnya](https://github.com/verlincezendrato/latihan-1/blob/master/4.JPG)
+
 5
 ![hasilnya](https://github.com/verlincezendrato/latihan-1/blob/master/5.JPG)
