@@ -1,6 +1,7 @@
 # latihan-1
 
-
+**cara membuat reporsitory**
+masukan script di bawah ini
 
 1
 ![hasilnya](https://github.com/verlincezendrato/latihan-1/blob/master/1.JPG)
